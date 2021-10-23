@@ -9,9 +9,10 @@ import Doctor from './pages/Doctor/Doctor';
 import Home from './pages/Home/Home/Home';
 import Login from './pages/Login/Login/Login';
 import PrivateRoute from './pages/Login/PrivateRoute/PrivateRoute';
+
 import NotFound from './pages/NotFound/NotFound';
 import Register from './pages/Register/Register';
-// import Register from './pages/Register/Register';
+
 import Footer from './pages/Shared/Footer/Footer';
 import Header from './pages/Shared/Header/Header';
 

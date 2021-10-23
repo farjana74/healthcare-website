@@ -1,0 +1,372 @@
+{
+    "service": [
+      {
+       
+        "name": "medicine",
+        "location": {
+          "street": "Lakhsam",
+          "city": "cumilla"
+        },
+        "email": "csefarjana@gmail.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "4"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/pLQ8RHs/medicine.jpg"
+        }
+      },
+  
+      {
+        
+        "name": "Dental Care",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "fnjdsfnsk@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "3"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/yBJZNzq/Woman-patient-at-dentist.jpg"
+        }
+      },
+  
+      {
+        
+        "name": "Ambulance",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "popy5898@gmail.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "5"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/V0G2tsW/ambulance.jpg"
+        }
+      },
+  
+      {
+        
+        "name": "Neurology",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "sah@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "6"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/WgnTGJV/nerology.jpg"
+        }
+      },
+  
+      {
+        
+        "name": "Diagnosis",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "rcxv@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "2"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/Prz7p2W/Laboratory-worker-in-coverall-suit-is-adjusting-microscope-The-researcher-is-doing-coronavirus-testi.jpg"
+        }
+      },
+  
+      {
+       
+        "name": "Expert Doctor",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "eht@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "1"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/ykNqS43/Nurse-measuring-patient-blood-pressure.jpg"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Israfil Hossen",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "cmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/4tGZjNH/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Mezbaul Abedin Forhan",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "dmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/hYR64bV/image.png"
+        }
+      },
+  
+      {
+        "gender": "male",
+        "name": "Md. Gias Uddin",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "hmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/MBxbp2R/237486074-3066869396931612-1250967033262156293-n.jpg"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Sagar Biswas",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "imp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/sm3Twnw/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Raju Biswas",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "zmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/mHny19M/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Md. Asif Iqbal",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "jmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/XJrCgj7/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Mohammad Shabaj Khan",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "kmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/z8jwPd6/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Nur-E-Alom Siddiky",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "lmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/VWxsx9C/DSC2618.jpg"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Azizul Islam Milton",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "mmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/TqV0YJq/miltonimgbb.jpg"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Md. Al-amin Howlader",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "nmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/tJ34mcY/banner.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "MD Sakib Ahmed",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "omp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/YDKWMfm/image.png"
+        }
+      },
+  
+      {
+        "gender": "male",
+        "name": "Misbah Uddin Faroque",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "pmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/xzSLYS0/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Muktadir Hassan",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "qmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/Dw2J0V3/image.png"
+        }
+      },
+      {
+        "gender": "male",
+        "name": "Roky Das",
+        "location": {
+          "street": "9278 new road",
+          "city": "kilcoole"
+        },
+        "email": "brad.gibson@example.com",
+        "login": {
+          "username": "silverswan131",
+          "password": "firewall",
+          "id": "rmp122"
+        },
+        "phone": "011-962-7516",
+        "picture": {
+          "thumbnail": "https://i.ibb.co/smwmXTh/image.png"
+        }
+      }
+    ]
+  }
+  

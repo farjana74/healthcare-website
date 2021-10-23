@@ -1,0 +1,8 @@
+.doctor{
+   height:1700px;
+   min-height: 1000;
+}
+.doctor img:hover{
+ width:200px;
+ transition-duration:0.30;
+}

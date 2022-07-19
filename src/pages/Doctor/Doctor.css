@@ -1,8 +1,11 @@
-.doctor{
-   height:1700px;
+.doctor {
+   height: 1700px;
    min-height: 1000;
+
 }
-.doctor img:hover{
- width:200px;
- transition-duration:0.30;
+
+.doctor img:hover {
+   width: 200px;
+   transition: 0.5s;
+
 }
